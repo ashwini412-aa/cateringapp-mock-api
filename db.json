@@ -3,7 +3,6 @@
          {"name": "Admin",
       "email": "admin@gmail.com",
         "password": "pass",
-    "PhoneNo": 7412589632,
     "role": "ADMIN",
 "id": 1
         }
